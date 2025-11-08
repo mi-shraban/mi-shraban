@@ -12,19 +12,15 @@ Computer Science graduate from **Brac University**, awaiting conferral. I'm pass
 
 ## Skillset
 
-**Languages:** Python • C++ • C • JavaScript • PHP • HTML • CSS
+**Languages:** Python • C++ • C • JavaScript 
 
 **ML/DL Tools:** TensorFlow • PyTorch • Scikit-Learn • NumPy • Pandas • OpenCV
 
-**Web Development:** React • Next.js • Flask • FastAPI • Tailwind CSS
+**Web Development:** HTML • CSS • React • Next.js • Flask • FastAPI
 
 **Databases:** MySQL • SQLite
 
-**Other Tools:** LaTeX • Git • Arduino • ESP32
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi-shraban&show_icons=true&theme=radical)
+**Other Tools:** LaTeX • Git/Github • Arduino • ESP32
 
 ## Programming & Problem solving
 
