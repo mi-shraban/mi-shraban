@@ -1,4 +1,4 @@
-# Hi there, This is [Monowarul Islam Shraban](https://mi-shraban.vercel.app)
+# Hi there, this is [Monowarul Islam Shraban](https://mi-shraban.vercel.app)
 
 Computer Science graduate awaiting conferral, with hands-on experience in AI, Web Development, and Robotics. Skilled in Python, C++, and modern frameworks and libraries, with a strong base in problem-solving experience.
 
