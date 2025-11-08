@@ -1,6 +1,4 @@
-# Hi there, I'm [Monowarul Islam Shraban](https://mi-shraban.vercel.app)
-
-## About Me
+# Hi there, This is [Monowarul Islam Shraban](https://mi-shraban.vercel.app)
 
 Computer Science graduate from **Brac University**, awaiting conferral. I'm passionate about solving complex problems through code and exploring the intersections of machine learning, cybersecurity, and software engineering.
 
