@@ -22,11 +22,6 @@ Computer Science graduate from **Brac University**, awaiting conferral. I'm pass
 
 **Other Tools:** LaTeX • Git/Github • Arduino • ESP32
 
-## Programming & Problem solving
-
-- **Codeforces:** [xordan.-](https://codeforces.com/profile/xordan.-)
-- **LeetCode:** [xordan77](https://leetcode.com/u/xordan77/)
-
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
