@@ -1,6 +1,6 @@
 # Hi there, This is [Monowarul Islam Shraban](https://mi-shraban.vercel.app)
 
-Computer Science graduate from **Brac University**, awaiting conferral. I'm passionate about solving complex problems through code and exploring the intersections of machine learning, cybersecurity, and software engineering.
+Computer Science graduate awaiting conferral, with hands-on experience in AI, Web Development, and Robotics. Skilled in Python, C++, and modern frameworks and libraries, with a strong base in problem-solving experience.
 
 - Solved nearly **500 problems** across [Codeforces](https://mi-shraban.vercel.app/cfsolves) and [LeetCode](https://leetcode.com/u/xordan77/)
 - Research interests: **Machine Learning, Deep Learning, Data Science**
