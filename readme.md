@@ -2,7 +2,7 @@
 
 Computer Science graduate awaiting conferral, with hands-on experience in AI, Web Development, and Robotics. Skilled in Python, C++, and modern frameworks and libraries, with a strong base in problem-solving experience.
 
-- Solved nearly **500 problems** across [Codeforces](https://mi-shraban.vercel.app/cfsolves) and [LeetCode](https://leetcode.com/u/xordan77/)
+- Solved over **500 problems** across [Codeforces](https://mi-shraban.vercel.app/cfsolves) and [LeetCode](https://leetcode.com/u/xordan77/)
 - Research interests: **Machine Learning, Deep Learning, Data Science**
 - Currently working on research projects in cybersecurity and ML-based intrusion detection
 - Seeking opportunities in software engineering and ML engineering roles
