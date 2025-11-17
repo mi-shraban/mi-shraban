@@ -10,7 +10,7 @@ Computer Science graduate awaiting conferral, with hands-on experience in AI, We
 
 ## Skillset
 
-**Languages:** Python • C++ • C • JavaScript/TypeScript
+**Languages:** Python • C++ • C • JavaScript / TypeScript
 
 **ML/DL Tools:** TensorFlow • PyTorch • Scikit-Learn • NumPy • Pandas • OpenCV
 
